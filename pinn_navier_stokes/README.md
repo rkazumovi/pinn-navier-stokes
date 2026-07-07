@@ -1,6 +1,6 @@
 # Physics-Informed Neural Networks for 2D Navier-Stokes Aerodynamics
 
-Project 2 in a Scientific ML / ML Engineering portfolio. Builds three
+Project in a Scientific ML / ML Engineering portfolio. Builds three
 progressively harder PINNs solving the incompressible Navier-Stokes
 equations, culminating in lift generation around a NACA 0012 airfoil.
 
