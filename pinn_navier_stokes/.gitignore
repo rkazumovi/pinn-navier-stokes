@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+
+# trained model weights - large binary files, regenerate via train.py
+outputs/*.pt
+
+# keep the plots though
+!outputs/*.png

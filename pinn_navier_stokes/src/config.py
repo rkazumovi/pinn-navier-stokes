@@ -1,0 +1,4 @@
+RE = 100.0
+X_MIN, X_MAX = 0.0, 1.0
+Y_MIN, Y_MAX = 0.0, 1.0
+LID_VELOCITY = 1.0
